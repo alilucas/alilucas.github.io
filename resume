@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Ali Lucas</title>
+
+
+		<style type="text/css">
+		
+		body {
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			height: 100%; 
+			max-height: 100%; 
+			font-family:Sans-serif;
+			line-height: 1.5em;
+		}
+
+		main {
+			position: fixed;
+			top: 100px; 
+			bottom: 50px; 
+			left: 0; 
+			right: 230px; 
+			overflow: auto; 
+			background: #fff;
+		}
+				
+		#header {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 50px; 
+			overflow: hidden;
+			background: #0066cc;
+<nav><a href="index.html>home</a>
+<a href="contact.html>contact</a>
+
+
+
+
+
+
+		}
+
+		#footer {
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			width: 100%;
+			height: 50px; 
+			overflow: hidden; 
+			background: #0066cc;
+		}
+				
+#nav {
+position: absolute; 
+top: 50px; 
+bottom: 50px;
+right: 0; 
+width: 230px;
+background: #CEECF5; 		
+		}
+		
+		.innertube {
+			margin: 15px;
+		}
+		
+		p {
+			color: #000000;
+		}
+
+		nav ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+		
+		nav ul a {
+			color: #000000;
+			text-decoration: none;
+		}
+				
+		/*IE6 fix*/
+		* html body{
+			padding: 50px 0 50px 230px; 
+		}
+		
+		* html main{ 
+			height: 100%; 
+			width: 100%; 
+		}
+		
+		</style>
+		
+			
+</head>
+<body>		
+<header id="header">
+<div class="innertube">
+<h1>Ali Lucas
+<p>cool tagline here</p></h1>
+
+			</div>
+<nav>
+<a href="#">Home</a>
+<a href="#">Resume</a>
+<a href="#">Articles</a>
+<a href="#">About</a>
+<a href="#">Contact</a>
+</nav>
+</header>
+				
+		<main>
+			<div class="innertube">
+				
+				<h1>Contact </h1>
+<p><strong>description of article</strong></p>
+
+				<p>Please feel free to contact me and I will respond as soon as possible</p>
+				<a id="foxyform_embed_link_615938" href="http://www.foxyform.com/">foxyform</a>
+<script type="text/javascript">
+(function(d, t){
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://www.foxyform.com/js.php?id=615938&sec_hash=7e4aee64b1a&width=350px";
+   s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script>
+
+				
+				
+			</div>
+		</main>
+
+		<nav id="nav">
+			<div class="innertube">
+				<h2>Related Articles</h2>
+				<ul>
+					<li><a href="#">Tebow Comeback?</a></li>
+<li><a href="#">Injury Report</a></li>
+<li><a href="#">College Football Playoff</a></li>
+<li><a href="#">Muschamp to Auburn</a></li>
+<li><a href="#">McElwain arrives at UF</a></li>
+				</ul>
+				<h2>Recent Articles</h2>
+				<ul>
+					<li><a href="#">December</a></li>
+					<li><a href="#"></a>November</li>
+					<li><a href="#">October</a></li>
+					<li><a href="#">September</a></li>
+					<li><a href="#">August</a></li>
+				</ul>
+			</div>
+		</nav>	
+		
+		<footer id="footer">
+			<div class="innertube">
+				<p>&copy;Copyright 2014 Ali Lucas</p>
+<a href="index.html">home</a>
+<a href="contact.html">contact</a>
