@@ -1,6 +1,5 @@
 alilucas.github.io
 ==================
 
-my personal website
+The personal website of Ali Lucas
 
-type something 
